@@ -6,6 +6,7 @@
     "start": "node ./index.js"
   },
   "keywords": [],
+  "repository": "https://github.com/vitaliy-kos/node.js/tree/main/Homework02",
   "author": "",
   "license": "ISC",
   "description": "",
